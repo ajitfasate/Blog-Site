@@ -1,0 +1,30 @@
+{
+
+  "params":
+  {
+
+    "bloger_name": "AJIT FASATE",
+    "blog_name": "THE BLOG ON...",
+    "blog_tag_line": "A Blog Like By A Everyone...",
+
+    "about_text": "I am 'AJIT FASATE' and I create website using Python with Django framework, Flask. And you can contact on 8983061321.",
+
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/blogdb",
+    "prod_uri": "mysql://root:@localhost/blogdb",
+    "tw_url": "https://twitter.com/@ajit_fasate",
+    "fb_url": "https://facebook.com/ajitfasate",
+    "gh_url": "https://github.com/ajitfasate",
+
+    "gmail_user": "xxxxxxxxxxxxx@gmail.com",
+    "gmail_password": "xxxxxxxxxxx",
+
+    "no_of_posts": 3,
+    "login_image": "login.jpg",
+    "admin_user": "ajit",
+    "admin_password": "fasate",
+    "upload_location":"C:\\Users\\Black-Hat\\PycharmProjects\\Flask_Website\\static"
+  }
+
+
+}
